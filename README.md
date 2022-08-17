@@ -5,4 +5,4 @@
 
 
 
-<div><img src="https://activity-graph.herokuapp.com/graph?username=dhruv8088"></div>
+<div><img src="https://activity-graph.herokuapp.com/graph?username=dhruv8088&theme=dracula"></div>
