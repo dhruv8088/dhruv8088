@@ -2,6 +2,8 @@
 🤘Hi! I am Dhruv Bansal.</br>
 🙋Age 20 </br>
 🎓Sophomore at IIIT Bhopal</br>
+📧dhruvbansal8088@gmail.com
+🧑‍💻Familiar with C||C++, learning python,web-development
 
 
 
