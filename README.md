@@ -5,9 +5,11 @@
 ~📧dhruvbansal8088@gmail.com</br>
 ~🧑‍💻Familiar with C||C++, learning python,web-development</br>
 ~👤Linked-In-https://www.linkedin.com/in/dhruv-bansal-29b532223/</br></br>
+![gitartwork](gitartwork.svg)
 <b>~Github Stats: </br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv8088&theme=tokyonight)
 [![Anurag's github stats allign="right"](https://github-readme-stats.vercel.app/api?username=dhruv8088)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
