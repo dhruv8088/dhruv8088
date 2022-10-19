@@ -3,7 +3,8 @@
 ~ 🙋Age 20 </br>
 ~🎓Sophomore at IIIT Bhopal</br>
 ~📧dhruvbansal8088@gmail.com</br>
-~🧑‍💻Familiar with C||C++, learning python,web-development</br>
+~🧑‍💻Familiar with C||C++, MERN stack developer</br>
+~ CP enthusiast</br>
 ~👤Linked-In-https://www.linkedin.com/in/dhruv-bansal-29b532223/</br></br>
 ![gitartwork](gitartwork.svg)
 <b>~Github Stats: </br></br>
