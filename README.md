@@ -10,10 +10,14 @@
 <b>~Github Stats: </br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv8088&theme=tokyonight)
 [![Anurag's github stats allign="right"](https://github-readme-stats.vercel.app/api?username=dhruv8088)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8088&theme=nightowl" alt="dhruv8088" /></p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv8088&theme=nightowl" alt="dhruv8088" /></p><br></br>
 
 
 
 
-<div><img src="https://activity-graph.herokuapp.com/graph?username=dhruv8088&theme=dracula"></div>
-[![@dhruv8088's Holopin board](https://holopin.me/dhruv8088)](https:/@holopin.io/@dhruv8088)
+<div><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=dhruv8088&theme=dracula"></p></div><br></br>
+
+
+
+
+[![@dhruv8088's Holopin badges](https://holopin.me/dhruv8088)](https://holopin.io/@dhruv8088)
